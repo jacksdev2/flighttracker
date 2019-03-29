@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "d3": "^5.7.0",
+    "d3": "^5.9.2",
     "deck.gl": "^6.3.3",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
